@@ -17,5 +17,5 @@ Template for Asp.net core 2.1 web api with best practices.
 #### token will grant through token endpoint (post /api/token) when all parameters are set to "test" (client id, cleint secret, audience)
 #### use above token to call api/test/[int]  , it will retun "value:" [int]  (use to test the authantication)
 
-## publsih
+## publish
 #### web deploye will work for IIS, once the core module is isntalled
