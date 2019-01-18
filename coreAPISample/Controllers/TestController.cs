@@ -28,7 +28,7 @@ namespace coreAPISample.Controllers
         [HttpGet]
         public ActionResult<string> Get()
         {
-            return Ok("test:"+ _configuration["test"]);
+            return Ok("test v1:"+ _configuration["test"]);
         }
 
         /// <summary>
