@@ -18,4 +18,4 @@ Template for Asp.net core 2.1 web api with best practices.
 #### use above token to call api/test/[int]  , it will retun "value:" [int]  (use to test the authantication)
 
 ## publish
-#### web deploye will work for IIS, once the core module is isntalled
+#### web deploye will work for IIS, once the core module is isntalled. test
